@@ -1,0 +1,21 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "id": "22",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        }
+        
+      ]
+    }
+  }
+}
