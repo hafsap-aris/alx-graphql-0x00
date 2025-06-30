@@ -1,0 +1,21 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Krombopulos Michael",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Mr. Meeseeks",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        }
+       
+      ]
+    }
+  }
+}
